@@ -1,4 +1,4 @@
-package com.array.problem;
+package com.String.problem;
 
 import java.util.Scanner;
 
